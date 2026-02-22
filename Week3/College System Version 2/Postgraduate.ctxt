@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Postgraduate
+comment1.params=name\ program\ researchArea\ supervisor\ studentId
+comment1.target=Postgraduate(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ printInfo()
+numComments=3
