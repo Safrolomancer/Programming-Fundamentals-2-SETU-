@@ -1,6 +1,6 @@
 public class Nurse
 {
-    // 1. Create Attributes/Instance Variables
+    
 
     private String name;
     private int employeeId;

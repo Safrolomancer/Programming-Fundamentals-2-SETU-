@@ -1,6 +1,6 @@
 public class Doctor
 {
-    // Create attributes/Instance Variables
+    
 
     private String name;
     private int employeeId;

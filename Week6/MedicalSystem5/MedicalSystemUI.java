@@ -5,10 +5,10 @@ public class MedicalSystemUI {
 
     public static void main(String[] args) 
     {
-        //Creates a Scanner object to allow the program read input from the keyboard.
+        
         Scanner input = new Scanner(System.in);
         
-        //This line creates an ArrayList that can store Nurse objects.
+        
         ArrayList<Nurse> listOfNurses = new ArrayList<>();
 
         int choice;
@@ -21,6 +21,8 @@ public class MedicalSystemUI {
             System.out.println("4. Remove Nurse");
             System.out.println("5. Exit");
             System.out.print("Enter choice: ");
+            
+            System.out.print('k' + 'i' + 'r' + 'a');
 
             choice = input.nextInt();
             input.nextLine(); // clear buffer
