@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MedicalSystem
+comment1.params=
+comment1.target=MedicalSystem()
+comment2.params=staff
+comment2.target=void\ addStaff(MedicalStaff)
+comment3.params=index
+comment3.target=MedicalStaff\ getStaff(int)
+comment4.params=
+comment4.target=java.lang.String\ getAllStaff()
+comment5.params=
+comment5.target=int\ getStaffCount()
+comment6.params=index
+comment6.target=boolean\ isValidStaffIndex(int)
+comment7.params=index
+comment7.target=void\ removeStaff(int)
+numComments=8
